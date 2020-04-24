@@ -9,4 +9,4 @@ O aplicativo utiliza uma api para obter as questões sobre o COVID-19, esta api 
 ![](screens/tela1.png) ![](screens/tela2.png) ![](screens/tela3.png)
 
 
-OBS: Este aplicativo foi criado utilizando como referência o seguinte tutorial:
+OBS: Este aplicativo foi criado utilizando como referência o seguinte tutorial: https://medium.com/flutter-comunidade-br/desenvolvendo-um-quiz-com-flutter-e-google-sheets-414656cb89a2
