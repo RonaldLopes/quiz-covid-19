@@ -1,16 +1,16 @@
-# quizcovid19
+# App quiz sobre o COVID-19
 
-App de perguntas sobre o Covid 19
+App de perguntas sobre o Covid 19, criado para fins de estudo da linguagem Dart e do framework Flutter.
 
-## Getting Started
+## Telas
 
-This project is a starting point for a Flutter application.
+O aplicativo utiliza uma api para obter as questões sobre o COVID-19, esta api fornece os dados via protocolo REST. Abaixo segue algumas imagens da tela.
 
-A few resources to get you started if this is your first Flutter project:
+![](screens/tela1.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![](screens/tela2.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![](screens/tela3.png)
+
+
+OBS: Este aplicativo foi criado utilizando como referência o seguinte tutorial:
